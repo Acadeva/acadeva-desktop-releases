@@ -1,4 +1,6 @@
-<img width="851" height="315" alt="image" src="https://github.com/user-attachments/assets/c21d7952-6dff-4e8e-ab34-dc4095513b96" />
+[![Release (self-update build)](https://github.com/launchthisapp1024/acadeva-desktop/actions/workflows/release.yml/badge.svg)](https://github.com/launchthisapp1024/acadeva-desktop/actions/workflows/release.yml)
+
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/e6508e2c-55f0-40d6-bf73-44b8e42108f2" />
 
 # Acadeva Desktop Releases
 
