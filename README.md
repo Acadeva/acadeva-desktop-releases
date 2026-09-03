@@ -3,7 +3,7 @@
 
 # Acadeva Desktop Releases
 
-This repository hosts built installers for the Acadeva desktop app (Windows, macOS, and Linux). It contains release artifacts only, no source code.
+This repository hosts built installers for the Acadeva desktop app (Windows, macOS, and Linux). It contains release artifacts only.
 
 ## Download
 
